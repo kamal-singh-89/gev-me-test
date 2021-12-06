@@ -1,7 +1,8 @@
 # gev-me-test
 
 # Problem is - 
-<!-- 
+<pre>
+[
 Consider the following data structure.
 
 const accountBalanceHistory = [
@@ -29,7 +30,9 @@ Account balance history is an array that denotes a monthly track record of the b
 Each top level object within the array denotes the running balance value within that particular month.
 
 E.g. in our example above, I can see that someone started of with a balance of 200 2 months ago, this decreased to 100 the following month, and again to 0 in the final and current month.
--->
+]
+
+</pre>
 
 # Solution is
 
